@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Base.Theme.COMP3074_Assignment1"
+        parent="Theme.Material3.DayNight">
+
+    </style>
+
+    <style name="Theme.COMP3074_Assignment1"
+        parent="Base.Theme.COMP3074_Assignment1" />
+
+</resources>
